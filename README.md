@@ -1,5 +1,9 @@
 # C++ Multithreading Downloader
 
+## Screenshot
+
+![Project Screenshot](demo/sample.png)
+
 ## Overview
 
 This project demonstrates a multithreaded file downloader in C++ using the `libcurl` library for HTTP requests and the `indicators` library for progress visualization. The application allows downloading multiple files concurrently with progress bars showing the download status for each file.
